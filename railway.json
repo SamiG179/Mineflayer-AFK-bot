@@ -1,0 +1,7 @@
+{
+  "plugins": [],
+  "startCommand": "npm start",
+  "buildCommand": "npm install",
+  "healthCheckPath": "/",
+  "rootDirectory": "."
+}
